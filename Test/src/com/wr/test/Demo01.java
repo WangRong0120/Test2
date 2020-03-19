@@ -17,6 +17,6 @@ public class Demo01 {
 		System.out.println(map.size());
 		System.out.println("HELLO");
 		System.out.println("XIXIXIXI");
-		System.out.println("别人的提交");
+		System.out.println("others");
 	}
 }
