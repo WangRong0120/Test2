@@ -20,5 +20,6 @@ public class Demo01 {
 		
 		System.out.println("myfirst");
 		
+		System.out.println("others");
 	}
 }
