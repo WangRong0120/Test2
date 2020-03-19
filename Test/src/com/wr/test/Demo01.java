@@ -18,6 +18,7 @@ public class Demo01 {
 		System.out.println("HELLO");
 		System.out.println("XIXIXIXI");
 		
-		System.out.println("�ڶ����޸�");
+		System.out.println("第二次修改");
+		System.out.println("鍒汉鐨勬彁浜�");
 	}
 }
