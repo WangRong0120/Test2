@@ -18,6 +18,6 @@ public class Demo01 {
 		System.out.println("HELLO");
 		System.out.println("XIXIXIXI");
 		
-		System.out.println("3/19/16:47修改");
+		System.out.println("第二次修改");
 	}
 }
