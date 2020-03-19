@@ -16,5 +16,6 @@ public class Demo01 {
 		map.put("name", "jone");
 		System.out.println(map.size());
 		System.out.println("HELLO");
+		System.out.println("XIXIXIXI");
 	}
 }
